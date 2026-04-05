@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Lexica AI
+# Lexica AI
 
 **A sleek, browser-based AI chat — React, TypeScript & OpenAI.**
 
